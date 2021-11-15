@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "7895322"
+    build_id: "7905246"
     target: "lynx"
     source_file: "snd-soc-cs35l41-spi.ko"
   }
   dest_file: "snd-soc-cs35l41-spi.ko"
-  version: "Linux version 5.10.75-android13-0-01318-gca5822a433a8-ab7895322 (build-user@build-host) (Android (7685531, based on r433403) clang version 13.0.2 (https://android.googlesource.com/toolchain/llvm-project d3e1bef2bc2bdec355d4fd0163aeb0aabbe4b66c), LLD 13.0.2 (/buildbot/src/android/llvm-toolchain/out/llvm-project/lld d3e1bef2bc2bdec355d4fd0163aeb0aabbe4b66c)) #1 SMP PREEMPT Tue Oct 26 15:06:40 UTC 2021"
+  version: "Linux version 5.10.77-android13-0-01708-g46ae371e1fc2-ab7905246 (build-user@build-host) (Android (7685531, based on r433403) clang version 13.0.2 (https://android.googlesource.com/toolchain/llvm-project d3e1bef2bc2bdec355d4fd0163aeb0aabbe4b66c), LLD 13.0.2 (/buildbot/src/android/llvm-toolchain/out/llvm-project/lld d3e1bef2bc2bdec355d4fd0163aeb0aabbe4b66c)) #1 SMP PREEMPT Wed Nov 3 08:07:26 UTC 2021"
   version_group: "kernel-and-modules"
   git_project: "device/google/lynx-kernel"
 }
