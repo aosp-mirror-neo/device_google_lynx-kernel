@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "7925162"
+    build_id: "7929205"
     target: "lynx"
     source_file: "rtc-s2mpg12.ko"
   }
   dest_file: "rtc-s2mpg12.ko"
-  version: "Linux version 5.10.77-android13-0-00087-g46ae371e1fc2-ab7925162 (build-user@build-host) (Android (7685531, based on r433403) clang version 13.0.2 (https://android.googlesource.com/toolchain/llvm-project d3e1bef2bc2bdec355d4fd0163aeb0aabbe4b66c), LLD 13.0.2 (/buildbot/src/android/llvm-toolchain/out/llvm-project/lld d3e1bef2bc2bdec355d4fd0163aeb0aabbe4b66c)) #1 SMP PREEMPT Wed Nov 3 08:07:26 UTC 2021"
+  version: "Linux version 5.10.79-android13-0-00356-g739c58e1b64f-ab7929205 (build-user@build-host) (Android (7685531, based on r433403) clang version 13.0.2 (https://android.googlesource.com/toolchain/llvm-project d3e1bef2bc2bdec355d4fd0163aeb0aabbe4b66c), LLD 13.0.2 (/buildbot/src/android/llvm-toolchain/out/llvm-project/lld d3e1bef2bc2bdec355d4fd0163aeb0aabbe4b66c)) #1 SMP PREEMPT Mon Nov 15 18:24:30 UTC 2021"
   version_group: "kernel-and-modules"
   git_project: "device/google/lynx-kernel"
 }
