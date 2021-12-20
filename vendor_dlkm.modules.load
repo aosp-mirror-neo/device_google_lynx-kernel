@@ -14,6 +14,7 @@ kernel/drivers/watchdog/softdog.ko
 kernel/drivers/devfreq/google/arm-memlat-mon.ko
 kernel/drivers/devfreq/google/governor_memlat.ko
 extra/bigocean.ko
+extra/btpower.ko
 extra/cl_dsp.ko
 extra/cnss2/cnss2.ko
 extra/cnss_genl/cnss_nl.ko
