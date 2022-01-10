@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "8051632"
+    build_id: "8056047"
     target: "lynx"
     source_file: "s2mpg12-powermeter.ko"
   }
   dest_file: "s2mpg12-powermeter.ko"
-  version: "Linux version 5.10.89-android13-0-00579-g8f2307226cee-ab8051632 (build-user@build-host) (Android (7917927, based on r437112) clang version 14.0.0 (https://android.googlesource.com/toolchain/llvm-project 8671348b81b95fc603505dfc881b45103bee1731), LLD 14.0.0) #1 SMP PREEMPT Wed Dec 29 12:24:39 UTC 2021"
+  version: "Linux version 5.10.89-android13-0-00579-g8f2307226cee-ab8056047 (build-user@build-host) (Android (7917927, based on r437112) clang version 14.0.0 (https://android.googlesource.com/toolchain/llvm-project 8671348b81b95fc603505dfc881b45103bee1731), LLD 14.0.0) #1 SMP PREEMPT Wed Dec 29 12:24:39 UTC 2021"
   version_group: "kernel-and-modules"
   git_project: "device/google/lynx-kernel"
 }
