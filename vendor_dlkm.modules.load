@@ -1,11 +1,16 @@
+kernel/crypto/crct10dif_common.ko
+kernel/crypto/crct10dif_generic.ko
+kernel/lib/crc-t10dif.ko
 kernel/drivers/pinctrl/pinctrl-slg51000.ko
 kernel/drivers/pinctrl/pinctrl-slg51002.ko
 kernel/drivers/soc/google/bcm_dbg.ko
 kernel/drivers/regulator/slg51000-regulator.ko
 kernel/drivers/regulator/slg51002-regulator.ko
+kernel/drivers/block/null_blk.ko
 kernel/drivers/misc/sbb-mux/sbb-mux.ko
 kernel/drivers/mfd/slg51000-core.ko
 kernel/drivers/mfd/slg51002-core.ko
+kernel/drivers/scsi/scsi_debug.ko
 kernel/drivers/usb/gadget/function/usb_f_etr_miu.ko
 kernel/drivers/input/misc/vl53l1/stmvl53l1.ko
 kernel/drivers/input/fingerprint/goodixfp.ko
@@ -13,7 +18,9 @@ kernel/drivers/thermal/samsung/gpu_cooling.ko
 kernel/drivers/watchdog/softdog.ko
 kernel/drivers/devfreq/google/arm-memlat-mon.ko
 kernel/drivers/devfreq/google/governor_memlat.ko
+kernel/drivers/perf/arm_dsu_pmu.ko
 extra/bigocean.ko
+extra/btpower.ko
 extra/cl_dsp.ko
 extra/cnss2/cnss2.ko
 extra/cnss_genl/cnss_nl.ko
@@ -23,6 +30,7 @@ extra/cnss_utils/cnss_utils.ko
 extra/cnss_utils/wlan_firmware_service.ko
 extra/drv2624.ko
 extra/focal_touch.ko
+extra/goodix_brl_touch.ko
 extra/google_dock.ko
 extra/google_dual_batt_gauge.ko
 extra/input-cs40l26-i2c.ko
@@ -39,10 +47,8 @@ extra/qmi/qmi_helpers.ko
 extra/qrtr/ns.ko
 extra/qrtr/qrtr-mhi.ko
 extra/qrtr/qrtr.ko
-extra/sec_touch.ko
 extra/snd-soc-cs35l41-i2c.ko
 extra/snd-soc-cs35l45-i2c.ko
 extra/snd-soc-cs40l26.ko
-extra/syna_touch.ko
 extra/wlan.ko
 extra/wlan_mac/google_wlan_mac.ko
