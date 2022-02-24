@@ -109,7 +109,6 @@ kernel/drivers/rtc/rtc-s2mpg12.ko
 kernel/drivers/i2c/busses/i2c-exynos5.ko
 kernel/drivers/i2c/busses/i2c-acpm.ko
 kernel/drivers/i2c/i2c-dev.ko
-kernel/drivers/media/common/videobuf2/videobuf2-dma-sg.ko
 kernel/drivers/media/platform/exynos/mfc/exynos_mfc.ko
 kernel/drivers/media/platform/exynos/smfc/smfc.ko
 kernel/drivers/power/reset/debug-reboot.ko
