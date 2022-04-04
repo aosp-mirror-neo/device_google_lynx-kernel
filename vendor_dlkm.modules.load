@@ -19,8 +19,12 @@ kernel/drivers/usb/typec/tcpm/google/usbc_cooling_dev.ko
 kernel/drivers/input/misc/vl53l1/stmvl53l1.ko
 kernel/drivers/input/fingerprint/goodixfp.ko
 kernel/drivers/thermal/samsung/gpu_cooling.ko
-kernel/drivers/watchdog/softdog.ko
 kernel/drivers/perf/arm_dsu_pmu.ko
+kernel/drivers/hwtracing/coresight/coresight.ko
+kernel/drivers/hwtracing/coresight/coresight-tmc.ko
+kernel/drivers/hwtracing/coresight/coresight-funnel.ko
+kernel/drivers/hwtracing/coresight/coresight-replicator.ko
+kernel/drivers/hwtracing/coresight/coresight-etm4x.ko
 extra/bigocean.ko
 extra/btpower.ko
 extra/cl_dsp.ko
@@ -33,6 +37,7 @@ extra/cnss_utils/wlan_firmware_service.ko
 extra/drv2624.ko
 extra/focal_touch.ko
 extra/goodix_brl_touch.ko
+extra/goog_touch_interface.ko
 extra/google_dock.ko
 extra/google_dual_batt_gauge.ko
 extra/input-cs40l26-i2c.ko
