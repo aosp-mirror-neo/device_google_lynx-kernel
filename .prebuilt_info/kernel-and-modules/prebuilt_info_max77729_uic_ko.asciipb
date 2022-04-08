@@ -1,6 +1,6 @@
 drops {
   android_build_drop {
-    build_id: "8411148"
+    build_id: "8417574"
     target: "lynx"
     source_file: "max77729_uic.ko"
   }
