@@ -163,6 +163,7 @@ extra/net/mcps802154/mcps802154_region_fira.ko
 extra/net/mcps802154/mcps802154_region_nfcc_coex.ko
 extra/p9221.ko
 extra/panel-samsung-s6e3fc3-l10.ko
+extra/panel-samsung-s6e3fc5.ko
 extra/panel/panel-samsung-drv.ko
 extra/panel/panel-samsung-emul.ko
 extra/panel/panel-samsung-s6e3fc3-p10.ko
