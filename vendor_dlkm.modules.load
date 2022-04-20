@@ -14,6 +14,7 @@ kernel/drivers/misc/sbb-mux/sbb-mux.ko
 kernel/drivers/mfd/slg51000-core.ko
 kernel/drivers/mfd/slg51002-core.ko
 kernel/drivers/scsi/scsi_debug.ko
+kernel/drivers/usb/gadget/function/usb_f_rndis.ko
 kernel/drivers/usb/gadget/function/usb_f_etr_miu.ko
 kernel/drivers/usb/typec/tcpm/google/usbc_cooling_dev.ko
 kernel/drivers/input/misc/vl53l1/stmvl53l1.ko
