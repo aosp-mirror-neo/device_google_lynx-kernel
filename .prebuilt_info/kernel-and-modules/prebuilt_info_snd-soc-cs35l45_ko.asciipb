@@ -1,6 +1,6 @@
 drops {
   android_build_drop {
-    build_id: "8495987"
+    build_id: "8500529"
     target: "lynx"
     source_file: "snd-soc-cs35l45.ko"
   }
