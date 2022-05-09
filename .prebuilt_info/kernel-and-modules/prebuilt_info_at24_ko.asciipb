@@ -1,6 +1,6 @@
 drops {
   android_build_drop {
-    build_id: "8545517"
+    build_id: "8559384"
     target: "lynx"
     source_file: "at24.ko"
   }
