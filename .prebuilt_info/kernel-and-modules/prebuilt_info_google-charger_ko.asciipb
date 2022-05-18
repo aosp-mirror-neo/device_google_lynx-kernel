@@ -1,6 +1,6 @@
 drops {
   android_build_drop {
-    build_id: "8596323"
+    build_id: "8604240"
     target: "lynx"
     source_file: "google-charger.ko"
   }
