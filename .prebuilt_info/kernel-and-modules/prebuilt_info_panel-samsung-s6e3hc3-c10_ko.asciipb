@@ -1,6 +1,6 @@
 drops {
   android_build_drop {
-    build_id: "9153581"
+    build_id: "9161606"
     target: "lynx"
     source_file: "panel-samsung-s6e3hc3-c10.ko"
   }
