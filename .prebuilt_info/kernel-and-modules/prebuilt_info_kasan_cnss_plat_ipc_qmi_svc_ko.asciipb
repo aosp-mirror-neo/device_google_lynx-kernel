@@ -1,6 +1,6 @@
 drops {
   android_build_drop {
-    build_id: "9196592"
+    build_id: "9199165"
     target: "lynx_kasan"
     source_file: "cnss_plat_ipc_qmi_svc.ko"
   }
