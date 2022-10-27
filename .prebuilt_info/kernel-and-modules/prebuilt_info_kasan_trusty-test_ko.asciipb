@@ -1,6 +1,6 @@
 drops {
   android_build_drop {
-    build_id: "9213116"
+    build_id: "9216294"
     target: "lynx_kasan"
     source_file: "trusty-test.ko"
   }
