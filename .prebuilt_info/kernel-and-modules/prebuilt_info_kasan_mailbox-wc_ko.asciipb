@@ -1,6 +1,6 @@
 drops {
   android_build_drop {
-    build_id: "9252785"
+    build_id: "9249731"
     target: "lynx_kasan"
     source_file: "mailbox-wc.ko"
   }
