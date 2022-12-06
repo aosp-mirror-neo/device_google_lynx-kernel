@@ -1,6 +1,6 @@
 drops {
   android_build_drop {
-    build_id: "9365704"
+    build_id: "9356726"
     target: "lynx"
     source_file: "exynos-pd.ko"
   }
