@@ -28,6 +28,7 @@ kernel/drivers/hwtracing/coresight/coresight-tmc.ko
 kernel/drivers/hwtracing/coresight/coresight-funnel.ko
 kernel/drivers/hwtracing/coresight/coresight-replicator.ko
 kernel/drivers/hwtracing/coresight/coresight-etm4x.ko
+extra/audiometrics.ko
 extra/bigocean.ko
 extra/btpower.ko
 extra/cl_dsp.ko
@@ -43,6 +44,7 @@ extra/goodix_brl_touch.ko
 extra/goog_touch_interface.ko
 extra/google_dock.ko
 extra/google_dual_batt_gauge.ko
+extra/gxp.ko
 extra/input-cs40l26-i2c.ko
 extra/lwis.ko
 extra/mali_kbase.ko
