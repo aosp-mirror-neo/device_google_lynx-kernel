@@ -1,6 +1,6 @@
 drops {
   android_build_drop {
-    build_id: "9461403"
+    build_id: "9477498"
     target: "lynx"
     source_file: "st33spi.ko"
   }
