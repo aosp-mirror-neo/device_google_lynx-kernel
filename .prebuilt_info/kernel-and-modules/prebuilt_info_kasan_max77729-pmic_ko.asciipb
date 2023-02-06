@@ -1,6 +1,6 @@
 drops {
   android_build_drop {
-    build_id: "9540260"
+    build_id: "9497754"
     target: "lynx_kasan"
     source_file: "max77729-pmic.ko"
   }
