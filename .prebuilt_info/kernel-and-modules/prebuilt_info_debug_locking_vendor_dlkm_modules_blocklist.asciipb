@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "11058247"
+    build_id: "11095200"
     target: "lynx_debug_locking"
     source_file: "vendor_dlkm.modules.blocklist"
   }
   dest_file: "debug_locking/vendor_dlkm.modules.blocklist"
-  version: "11058247"
+  version: "11095200"
   version_group: "kernel-and-modules"
   git_project: "device/google/lynx-kernel"
 }
