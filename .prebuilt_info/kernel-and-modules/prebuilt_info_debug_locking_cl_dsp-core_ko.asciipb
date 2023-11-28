@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "11095200"
+    build_id: "11147129"
     target: "lynx_debug_locking"
     source_file: "cl_dsp-core.ko"
   }
   dest_file: "debug_locking/cl_dsp-core.ko"
-  version: "11095200"
+  version: "11147129"
   version_group: "kernel-and-modules"
   git_project: "device/google/lynx-kernel"
 }

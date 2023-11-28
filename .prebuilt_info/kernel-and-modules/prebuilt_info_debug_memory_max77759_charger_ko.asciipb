@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "11095200"
+    build_id: "11147129"
     target: "lynx_debug_memory"
     source_file: "max77759_charger.ko"
   }
   dest_file: "debug_memory/max77759_charger.ko"
-  version: "11095200"
+  version: "11147129"
   version_group: "kernel-and-modules"
   git_project: "device/google/lynx-kernel"
 }
