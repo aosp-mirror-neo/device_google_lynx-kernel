@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "10937972"
+    build_id: "11071899"
     target: "lynx_debug_api"
     source_file: "crc-t10dif.ko"
   }
   dest_file: "debug_api/crc-t10dif.ko"
-  version: "Linux version 5.10.177-android13-4-00003-ga7208022a7ea-ab10815828 (build-user@build-host) (Android (8508608, based on r450784e) clang version 14.0.7 (https://android.googlesource.com/toolchain/llvm-project 4c603efb0cca074e9238af8b4106c30add4418f6), LLD 14.0.7) #1 SMP PREEMPT Fri Sep 15 16:40:54 UTC 2023"
+  version: "d647ca16546a6d603be786d0aca48fc1ede17a11"
   version_group: "kernel-and-modules"
   git_project: "device/google/lynx-kernel"
 }
