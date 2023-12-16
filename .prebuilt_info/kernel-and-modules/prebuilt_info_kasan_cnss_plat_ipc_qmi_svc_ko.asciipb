@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "11095200"
+    build_id: "11212122"
     target: "lynx_kasan"
     source_file: "cnss_plat_ipc_qmi_svc.ko"
   }
   dest_file: "kasan/cnss_plat_ipc_qmi_svc.ko"
-  version: "11095200"
+  version: "11212122"
   version_group: "kernel-and-modules"
   git_project: "device/google/lynx-kernel"
 }
