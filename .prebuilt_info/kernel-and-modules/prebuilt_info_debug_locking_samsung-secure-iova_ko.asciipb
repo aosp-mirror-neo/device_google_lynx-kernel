@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "11294604"
+    build_id: "11344139"
     target: "lynx_debug_locking"
     source_file: "samsung-secure-iova.ko"
   }
   dest_file: "debug_locking/samsung-secure-iova.ko"
-  version: "11294604"
+  version: "11344139"
   version_group: "kernel-and-modules"
   git_project: "device/google/lynx-kernel"
 }
