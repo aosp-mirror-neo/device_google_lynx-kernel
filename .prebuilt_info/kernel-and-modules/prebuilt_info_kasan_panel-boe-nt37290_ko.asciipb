@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "11294604"
+    build_id: "11344139"
     target: "lynx_kasan"
     source_file: "panel-boe-nt37290.ko"
   }
   dest_file: "kasan/panel-boe-nt37290.ko"
-  version: "11294604"
+  version: "11344139"
   version_group: "kernel-and-modules"
   git_project: "device/google/lynx-kernel"
 }
