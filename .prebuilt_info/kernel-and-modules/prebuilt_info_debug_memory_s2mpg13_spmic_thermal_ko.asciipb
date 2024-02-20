@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "11415368"
+    build_id: "11466860"
     target: "lynx_debug_memory"
     source_file: "s2mpg13_spmic_thermal.ko"
   }
   dest_file: "debug_memory/s2mpg13_spmic_thermal.ko"
-  version: "11415368"
+  version: "11466860"
   version_group: "kernel-and-modules"
   git_project: "device/google/lynx-kernel"
 }
