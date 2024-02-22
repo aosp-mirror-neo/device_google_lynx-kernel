@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "11466860"
+    build_id: "11485126"
     target: "lynx_debug_locking"
     source_file: "gs201-b0.dtb"
   }
   dest_file: "debug_locking/gs201-b0.dtb"
-  version: "11466860"
+  version: "11485126"
   version_group: "kernel-and-modules"
   git_project: "device/google/lynx-kernel"
 }
