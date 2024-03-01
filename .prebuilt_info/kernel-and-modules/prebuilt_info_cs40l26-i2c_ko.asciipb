@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "11495241"
+    build_id: "11503673"
     target: "lynx"
     source_file: "cs40l26-i2c.ko"
   }
   dest_file: "cs40l26-i2c.ko"
-  version: "11495241"
+  version: "11503673"
   version_group: "kernel-and-modules"
   git_project: "device/google/lynx-kernel"
 }
